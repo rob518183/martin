@@ -7,6 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.20.0](https://github.com/maplibre/martin/compare/martin-v0.19.2...martin-v0.20.0) - 2025-09-29
+
+### Added
+
+- *(pmtiles)* Embed version in tilejson tiles URL ([#2198](https://github.com/maplibre/martin/pull/2198))
+
+### Other
+
+- release ([#2265](https://github.com/maplibre/martin/pull/2265))
+
 ## [0.19.2](https://github.com/maplibre/martin/compare/martin-v0.19.1...martin-v0.19.2) - 2025-09-28
 
 ### Other
